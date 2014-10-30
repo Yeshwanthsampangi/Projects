@@ -3,7 +3,7 @@ Mega Project List
 
 A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
 
-To get started, simply fork this repo.
+To get started, simply fork this repo..
 
 ## [CONTRIBUTING](https://github.com/thekarangoel/Projects/blob/master/CONTRIBUTING.md)
 
